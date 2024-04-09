@@ -1,6 +1,6 @@
-# FOSS_FCSS_Android\Tech
+# FOSS_FCSS_Android
 
-FOSS - Free Open Source Software  
+FOSS - Free Open Source Software
   
 2F Authenticator  
 \-Ente Auth=[https://github.com/ente-io/ente/tree/main/auth#readme](<https://github.com/ente-io/ente/tree/main/auth#readme>)  
