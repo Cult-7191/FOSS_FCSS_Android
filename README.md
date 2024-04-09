@@ -1,6 +1,6 @@
 # FOSS_FCSS_Android
 
-FOSS - Free Open Source Software
+FOSS - Free Open Source Software  
   
 2F Authenticator  
 \-Ente Auth=[https://github.com/ente-io/ente/tree/main/auth#readme](<https://github.com/ente-io/ente/tree/main/auth#readme>)  
@@ -10,6 +10,9 @@ Alarm, Stopwatch, Timer
   
 Android Launcher  
 \-Kvaesitso=[https://github.com/MM2-0/Kvaesitso](<https://github.com/MM2-0/Kvaesitso>)  
+  
+App Firewall/DNS Resolver  
+\-Rethink=[https://github.com/Katya-Incorporated/REThink](<https://github.com/Katya-Incorporated/REThink>)  
   
 App Installer  
 \-Obtainium=[https://github.com/ImranR98/Obtainium](<https://github.com/ImranR98/Obtainium>)  
@@ -56,10 +59,10 @@ CalDav/CardDAV sync
 Calendar  
 \-Etar=[https://github.com/Etar-Group/Etar-Calendar](<https://github.com/Etar-Group/Etar-Calendar>)  
   
-Clipboard Cleaner  
+Clipboard cleaner  
 \-Memory Guardian=[https://github.com/hashemi-hossein/memory-guardian](<https://github.com/hashemi-hossein/memory-guardian>)  
   
-Cloud Service  
+Cloud service  
 \-Nextcloud=[https://nextcloud.com/](<https://nextcloud.com/>)  
   
 Contacts Management  
@@ -76,9 +79,6 @@ Dictionary
   
 Digital Music Book  
 \-ChordReader 2=[https://github.com/AndInTheClouds/chordreader2](<https://github.com/AndInTheClouds/chordreader2>)  
-  
-DNS Resolver/Firewall  
-\-Rethink=[https://github.com/Katya-Incorporated/REThink](<https://github.com/Katya-Incorporated/REThink>)  
   
 Document Viewer  
 \-LibreOffice Viewer=[https://www.libreoffice.org/download/android-and-ios/](<https://www.libreoffice.org/download/android-and-ios/>)  
@@ -103,6 +103,12 @@ File management tool
   
 File Manager  
 \-Fossify File Manager=[https://github.com/FossifyOrg/File-Manager](<https://github.com/FossifyOrg/File-Manager>)  
+  
+File Storage  
+\-Filen=[https://filen.io/](<https://filen.io/>)  
+  
+File synchronization  
+\-Syncthing=[https://syncthing.net/](<https://syncthing.net/>)  
   
 File Transfer  
 \-LocalSend=[https://localsend.org/#/](<https://localsend.org/#/>)  
@@ -242,7 +248,7 @@ Unit Converter
 Video Player  
 \-Nova Video Player=[https://github.com/nova-video-player/aos-AVP](<https://github.com/nova-video-player/aos-AVP>)  
   
-VPN  
+VPN client  
 \-Proton VPN=[https://github.com/ProtonVPN/android-app](<https://github.com/ProtonVPN/android-app>)  
   
 Weather App  
@@ -257,7 +263,14 @@ Wi-Fi Analyzer
 Wikipedia client  
 \-Wikipedia=[https://github.com/wikimedia/apps-android-wikipedia](<https://github.com/wikimedia/apps-android-wikipedia>)  
   
+FCSS - Free Closed Source Software  
   
+Instant Messengers  
+\-Discord=[https://discord.com](<https://discord.com>)  
+\-WhatsApp=[https://www.whatsapp.com/](<https://www.whatsapp.com/>)
+
+Music Streaming  
+\-Spotify=[https://open.spotify.com](<https://open.spotify.com>)  
   
   
   
