@@ -6,7 +6,7 @@ FOSS - Free Open Source Software
 \-Ente Auth=[https://github.com/ente-io/ente/tree/main/auth#readme](<https://github.com/ente-io/ente/tree/main/auth#readme>)  
   
 Alarm, Stopwatch, Timer  
-\-Chronos=[https://github.com/meenbeese/Chronos](<https://github.com/meenbeese/Chronos>)  
+\-Chrono=[https://github.com/vicolo-dev/chrono](<https://github.com/vicolo-dev/chrono>)  
   
 Android Launcher  
 \-Kvaesitso=[https://github.com/MM2-0/Kvaesitso](<https://github.com/MM2-0/Kvaesitso>)  
@@ -80,6 +80,9 @@ Dictionary
 Digital Music Book  
 \-ChordReader 2=[https://github.com/AndInTheClouds/chordreader2](<https://github.com/AndInTheClouds/chordreader2>)  
   
+Document Scanner  
+\-OSS Document Scanner=[https://github.com/Akylas/OSS-DocumentScanner](<https://github.com/Akylas/OSS-DocumentScanner>)  
+  
 Document Viewer  
 \-LibreOffice Viewer=[https://www.libreoffice.org/download/android-and-ios/](<https://www.libreoffice.org/download/android-and-ios/>)  
   
@@ -112,6 +115,9 @@ File synchronization
   
 File Transfer  
 \-LocalSend=[https://localsend.org/#/](<https://localsend.org/#/>)  
+  
+Finance Manager  
+\-Money Manager Ex=[https://github.com/moneymanagerex/moneymanagerex](<https://github.com/moneymanagerex/moneymanagerex>)  
   
 Fitness Tracker  
 \-GymRoutines=[https://codeberg.org/noahjutz/GymRoutines](<https://codeberg.org/noahjutz/GymRoutines>)  
@@ -156,7 +162,7 @@ Music Encyclopedia
 \-MusicBrainz=[https://github.com/metabrainz/musicbrainz-android/](<https://github.com/metabrainz/musicbrainz-android/>)  
   
 Music Identifier  
-\-Audire=[https://github.com/alexmercerind/audire](<https://github.com/alexmercerind/audire>)  
+\-Audile=[https://github.com/aleksey-saenko/MusicRecognizer](<https://github.com/aleksey-saenko/MusicRecognizer>)  
   
 Network toolset  
 \-Wi-Fi Info=[https://truemlgpro.github.io/Wi-Fi\_Info/](<https://truemlgpro.github.io/Wi-Fi_Info/>)  
@@ -166,6 +172,9 @@ Note-taking
   
 Notification Dictionary  
 \-Notification Dictionary=[https://github.com/tirkarthi/NotificationDictionary](<https://github.com/tirkarthi/NotificationDictionary>)  
+  
+Offline browsing  
+\-Kiwix=[https://github.com/kiwix/kiwix-android](<https://github.com/kiwix/kiwix-android>)  
   
 Offline Navigation  
 \-Organic Maps=[https://github.com/organicmaps/organicmaps](<https://github.com/organicmaps/organicmaps>)  
@@ -200,6 +209,12 @@ Podcast Manager
 Privacy friendly browser updater  
 \-FFUpdater=[https://github.com/Tobi823/ffupdater](<https://github.com/Tobi823/ffupdater>)  
   
+Quotations/Affirmations Widget  
+\-QuoteUnquote=[https://github.com/jameshnsears/QuoteUnquote](<https://github.com/jameshnsears/QuoteUnquote>)  
+  
+Recorder App  
+\-RecordYou=[https://github.com/you-apps/RecordYou](<https://github.com/you-apps/RecordYou>)  
+  
 Reddit client  
 \-RedReader=[https://github.com/QuantumBadger/RedReader](<https://github.com/QuantumBadger/RedReader>)  
   
@@ -212,7 +227,8 @@ Spirit level and ruler
 Spotify client  
 \-Spotube=[https://github.com/KRTirtho/spotube](<https://github.com/KRTirtho/spotube>)  
   
-Streaming Front-end  
+Streaming/YT Front-end  
+\-LibreTube=[https://libretube.dev/](<https://libretube.dev/>)  
 \-NewPipe=[https://newpipe.net/](<https://newpipe.net/>)  
   
 System API direct access  
@@ -220,6 +236,9 @@ System API direct access
   
 Tablature editor and player  
 \-TuxGuitar=[https://github.com/helge17/tuxguitar](<https://github.com/helge17/tuxguitar>)  
+  
+Tagging Document Manager  
+\-TagSpaces=[https://www.tagspaces.org/](<https://www.tagspaces.org/>)  
   
 Task Management  
 \-Anytype=[https://github.com/anyproto/anytype-ts](<https://github.com/anyproto/anytype-ts>)  
@@ -271,6 +290,9 @@ Instant Messengers
 
 Music Streaming  
 \-Spotify=[https://open.spotify.com](<https://open.spotify.com>)  
+  
+Navigation  
+\-Google Maps=[https://www.google.com/maps](<https://www.google.com/maps>)  
   
   
   
